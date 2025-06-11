@@ -3,3 +3,4 @@ geopandas>=0.14
 pyogrio
 pyarrow
 pandas
+rtree
